@@ -1,0 +1,14 @@
+backend: 
+
+cd C:\resume-tailor-FREE-VERSION\resume-tailor-free\backend
+
+venv311\Scripts\activate
+
+python app.py
+
+
+Frontend:
+
+cd C:\resume-tailor-FREE-VERSION\resume-tailor-free\frontend
+
+npm start
